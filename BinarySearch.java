@@ -1,5 +1,5 @@
 import java.util.*;
-public class Sort //And search
+public class BinarySearch //And search
 {
 	public static void main(String args[])
 	{
@@ -56,7 +56,7 @@ public class Sort //And search
 
 *********************OUTPUT*********************
 
-F:\Java>java Sort
+F:\Java>java BinarySearch
 Enter array size :
 3
 Enter array elemnets :
@@ -71,7 +71,7 @@ Enter key to serach :
 7
 Key found
 
-F:\Java>java Sort
+F:\Java>java BinarySearch
 Enter array size :
 5
 Enter array elemnets :
